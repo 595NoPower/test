@@ -2,5 +2,6 @@
 
 int main()
 {
-	printf("Hello World, Hello Mojo");kkk
+	printf("Hello World, Hello Mojo");
+	printf("Hello CPU");
 }
