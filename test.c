@@ -6,4 +6,8 @@ int main()
 	printf("Hello CPU");
 
 	printf("Hello CPU 2");
+
+	printf("Hello CPU 3");
+
+	return 0;
 }
